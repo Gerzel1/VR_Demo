@@ -1,0 +1,3 @@
+[submodule "Plugins/VR_Plugin"]
+	path = Plugins/VR_Plugin
+	url = https://github.com/Gerzel1/VR_Plugin.git
